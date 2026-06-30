@@ -10,4 +10,6 @@ int main ()
 
     cout << "Masukkan lebar :";
     cin >> lebar;
+
+    luas = panjang * lebar;
 }
