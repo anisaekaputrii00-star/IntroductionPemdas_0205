@@ -5,5 +5,7 @@ using std::endl;
 
 int main()
 {
-
+    cout << "selamat datang di TI UMY" << endl;
+    cout << 10 << endl;
+    return 0;
 }
